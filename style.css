@@ -1,0 +1,139 @@
+/* Global Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* --------------------Background Section */
+.container-fluid {
+    background-image: url('header.jpg');
+    background-size: cover;
+    background-position-y: 2000%;
+    height: auto;
+    /* Uncomment the line below if you want to limit the container's height */
+    /* max-height: 200vh; */
+}
+
+/* Padding for Rows */
+.row {
+    padding-top: 5.5rem;
+    padding-bottom: 5rem;
+}
+
+/* -----------------------------Header Section */
+.header {
+    background-image: url('bg1.jpg');
+    background-size: cover;
+    position: relative;
+    color: rgb(12, 11, 6);
+    text-align: center;
+    padding: 5rem;
+}
+
+.header h1 {
+    font-weight: 500;
+    font-size: 34px;
+    font-family: 'Indie Flower', cursive;
+    color: #e4eff7;
+}
+
+.header p {
+    margin-top: 1rem;
+    font-weight: 600;
+    font-size: 1.5rem;
+    color: #e4eff7;
+}
+
+.header p a {
+    font-family: 'Indie Flower', cursive;
+}
+
+/* Anchor Tag Styles */
+a:hover,
+a:visited,
+a:link,
+a:active {
+    text-decoration: none;
+    color: #d0e5f5;
+}
+
+/* -----------------------------Main Section */
+.main {
+    background-color: #212121;
+    /* Optional: You can use a gradient background if preferred */
+    /* background-image: linear-gradient(#424242, #757575); */
+}
+
+/* -----------------------------Input Section */
+.inputs {
+    padding: 6rem 0 2rem;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+/* Input Fields */
+.inputs input[type="text"] {
+    height: 3.5rem;
+    width: 30rem;
+    background: #212121;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    border: none;
+    background-color: transparent;
+    border-bottom: solid 1px #46b6df;
+    color: rgb(142, 227, 227);
+    border-radius: 15rem;
+    margin-right: 8px;
+}
+
+/* Center text alignment for input field */
+.inputs input[type="text"] {
+    text-align-last: auto;
+}
+
+/* Submit Button */
+.inputs input[type="submit"] {
+    height: 3.5rem;
+    width: 6.5rem;
+    background: #46b6df;
+    font-weight: bold;
+    font-family: 'Indie Flower', cursive;
+    color: rgb(252, 245, 248);
+    font-size: 1.5rem;
+    border: none;
+    border-radius: 15rem;
+}
+
+/* -------------------------------Display Section */
+.display {
+    text-align: center;
+    color: #e9863b;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* Wrapper for Content */
+.wrapper {
+    margin: 50px auto;
+    width: 50%;
+    background-color: #212121;
+    height: 40vh;
+    border-radius: 2px;
+    padding: 20px;
+}
+
+/* Wrapper Title */
+.wrapper h2 {
+    padding: 5px 0;
+    text-align: center;
+    color: #cbba24;
+}
+
+/* Wrapper Text */
+.wrapper p {
+    text-align: center;
+    margin: 10px 0;
+    font-size: 20px;
+    color: #56c11c;
+}
