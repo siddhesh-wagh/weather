@@ -6,7 +6,7 @@ Here’s a guide on setting up and running a **Weather Forecasting Website** pro
 # My Project
 Image of the project:
 
-![Project Screenshot](assests/front.png)
+![Project Screenshot](assets/front.png)
 ![](assests/front1.png)
 ![](assests/front2.png)
 
