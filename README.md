@@ -3,6 +3,11 @@ A weather forecasting website provides real-time updates on current conditions, 
 Here’s a guide on setting up and running a **Weather Forecasting Website** project using HTML and CSS in Visual Studio Code (VS Code). This is especially useful for those learning web development basics and experimenting with APIs.
 
 ---
+# My Project
+Image of the project:
+
+![Project Screenshot](assests/login.png)
+![](assests/login1.png)
 
 ## Steps to Run HTML and CSS Files in Visual Studio Code (VS Code)
 
