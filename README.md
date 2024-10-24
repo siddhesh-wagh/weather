@@ -8,6 +8,7 @@ Image of the project:
 
 ![Project Screenshot](assests/front.png)
 ![](assests/front1.png)
+![](assests/front2.png)
 
 ## Steps to Run HTML and CSS Files in Visual Studio Code (VS Code)
 
