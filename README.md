@@ -7,7 +7,7 @@ Here’s a guide on setting up and running a **Weather Forecasting Website** pro
 Image of the project:
 
 ![Project Screenshot](assets/front.png)
-![](assests/front1.png)
+![](assets/front1.png)
 ![](assests/front2.png)
 
 ## Steps to Run HTML and CSS Files in Visual Studio Code (VS Code)
