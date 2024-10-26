@@ -38,11 +38,11 @@ Follow these steps to set up and run your weather forecasting website project us
 1. Open a terminal in your system (or use the terminal inside VS Code).
 2. Clone this repository using the following command:
    ```bash
-   git clone https://github.com/your-username/weather-forecasting-website.git
+   git clone https://github.com/siddhesh-wagh/weather.git
    ```
 3. After cloning, navigate to the repository folder:
    ```bash
-   cd weather-forecasting-website
+   cd weather
    ```
 
 ### Step 4: Open the Project Folder in VS Code
